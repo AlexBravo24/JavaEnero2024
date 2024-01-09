@@ -1,0 +1,12 @@
+judiel landa tejeda
+
+
+
+
+
+crear una rama personal
+comando git branch ramauno_jlt
+
+cambio de rama personal
+git checkout ramauno_jlt
+
